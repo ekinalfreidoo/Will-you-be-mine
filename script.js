@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Yakin gamau?",
+    "Seriuss?",
+    "Tinggal klik Okee susah banget",
+    "Ayolah, Tolong...",
+    "Pikirin lagi coba!",
+    "Ekin bakalan sedih banget sih ini...",
+    "Bakalan sangat sedih",
+    "Bakalan superrr sedihh 😭...",
+    "Ok fainn, aku bakalan berhenti maksain...",
+    "Tapi bo'ong... Ayolahhh cantikkuuu...❤️"
 ];
 
 let messageIndex = 0;
